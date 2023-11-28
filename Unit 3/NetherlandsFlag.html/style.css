@@ -1,0 +1,22 @@
+.rectangle{
+    height: 150px;
+    width: 800px;
+}
+.red{
+    background-color: red;
+    height: 150px;
+    width: 800px;
+}
+.white{
+    background-color: white;
+    height: 150px;
+    width: 800px;
+}
+.blue{
+    background-color: blue;
+    height: 150px;
+    width: 800px;
+}
+.Header{
+    background-color: lightskyblue;
+}

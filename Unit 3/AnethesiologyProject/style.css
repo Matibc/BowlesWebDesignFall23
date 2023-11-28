@@ -1,0 +1,14 @@
+h3{
+    text-transform: uppercase;
+}
+body{
+    background-color: rgb(219, 223, 243);
+}
+p{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link{
+    font-size: 16px;
+    font-style: italic;
+}
