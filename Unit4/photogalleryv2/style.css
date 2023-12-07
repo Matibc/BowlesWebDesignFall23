@@ -23,13 +23,17 @@ a:hover{
 .cover{
     height:300px;
     margin-top:25%;
-    background-image:url(://www.publicdomainpictures.net/pictures/140000/t2/ark-texture-impasto-color-swirl-.jpg);
+    background-image:url(swirl.jpg);
     background-size:cover;
 }
-h1{
+.front-logo h1{
     color: white;
-    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
+
 .col-sm-2{
     height:200px;
     padding:2em;
@@ -44,3 +48,7 @@ h1{
 .front-nav-3{
     background-color: #80598d;
 }
+img{
+    width: 200px; height: 200px;
+}
+.center{text-align: center;}
