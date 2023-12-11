@@ -1,0 +1,43 @@
+.topnav {
+    background-color:rgb(211, 101, 28);
+    overflow: hidden;
+  }
+  .topnav {
+    background-color:rgb(117, 104, 104);
+    overflow: hidden;
+  }
+  
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(0, 0, 0);
+  }
+  
+  
+  .topnav a.active {
+    background-color:#bb925c;
+    color:#ddd;
+  }
+  
+.reduce{
+    background-image:url(../jpgs/back.webp) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+  text-align: center;
+  color:rgba(61,101,78,255);
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
